@@ -1,6 +1,7 @@
 import menu_generator
 
 
+
 import streamlit as st
 
 # Create a Streamlit app
